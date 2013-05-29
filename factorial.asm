@@ -1,4 +1,4 @@
-
+;a program that calculate a factorial of number 7
 x db 7
 factorial db ?
 .code
