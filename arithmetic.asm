@@ -1,3 +1,6 @@
+;a program that do arithmetic operations
+
+
 include 'win32ax.inc' 
   x db 9
   y db 7
